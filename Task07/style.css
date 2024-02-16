@@ -1,0 +1,38 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    height: 50px;
+    background-color: rgb(109, 214, 10);
+}
+
+main {
+    max-width: 1120px;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+h4 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+a:link {
+    color: green;
+}
+
+footer {
+    height: 50px;
+    background-color: #1ca3b4;
+}
